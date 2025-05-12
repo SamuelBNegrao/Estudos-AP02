@@ -2,7 +2,7 @@
 
 # Trabalho em Grupo – Algoritmos Recursivos e Iterativos
 
-Este repositório contém a implementação de diversas funções que exploram os conceitos de **recursão** e **iteração**. O trabalho foi realizado em grupo como parte das atividades da disciplina, com o objetivo de reforçar a compreensão e aplicação desses conceitos fundamentais em algoritmos.
+Utilizamos materiais e matérias de aulas anteriores e o Chat GPT para tirar dúvidas.
 
 ## 👥 Integrantes do Grupo
 
